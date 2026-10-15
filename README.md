@@ -7,7 +7,8 @@ Ultra-fast, simple and powerful IPTV app for Android — the Android edition of
 - Full TiviMate-style EPG guide with catchup playback and reminder notifications
 - Player for every taste: an embedded player docked at the top of the app, a floating mini player you can drag and pinch-resize anywhere (Undock), or fully immersive fullscreen with pinch-to-zoom — all controls sit on the video itself
 - Picture-in-Picture: swipe home while a channel is playing and the video keeps running in the system PiP window
-- Background and scheduled recordings (exact alarms fire them even when the app is closed; a foreground notification keeps them alive with the screen off)
+- Background and scheduled recordings (exact alarms fire them even when the app is closed; a notification keeps them alive with the screen off), saved to `Movies/zIPTV` on your device where any file manager or Gallery can find them
+- Your data survives updates: sources, favorites, settings and schedules carry over, with an automatic database snapshot as an extra safety net
 - Favorites, custom channels, sharing, re-stream to friends/other devices
 - Trakt.tv and Simkl integrations
 - Configurable themes, Android TV (D-pad) support
