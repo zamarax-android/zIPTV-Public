@@ -5,7 +5,8 @@ Ultra-fast, simple and powerful IPTV app for Android — the Android edition of
 
 - Import your IPTV channels from any source (M3U file, M3U link, Xtream, Stalker portal)
 - Full TiviMate-style EPG guide with catchup playback and reminder notifications
-- Player for every taste: an embedded player docked at the top of the app, a draggable floating mini player (Undock), or fully immersive fullscreen — each with on-video close/expand controls
+- Player for every taste: an embedded player docked at the top of the app, a floating mini player you can drag and pinch-resize anywhere (Undock), or fully immersive fullscreen with pinch-to-zoom — all controls sit on the video itself
+- Picture-in-Picture: swipe home while a channel is playing and the video keeps running in the system PiP window
 - Background and scheduled recordings (exact alarms fire them even when the app is closed; a foreground notification keeps them alive with the screen off)
 - Favorites, custom channels, sharing, re-stream to friends/other devices
 - Trakt.tv and Simkl integrations
